@@ -21,7 +21,7 @@ title                    : "Nyony's Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Call me Jenny or Nyony"
-description              : "Whatever you do, begin by loving yourself. Never forget that such an attitude is the most powerful force in dreaming of the future. - Friedrich Nietzsche"
+description              : ""
 url                      : "https://nyonycho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Call me Jenny or Nyony"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Whatever you do, begin by loving yourself. Never forget that such an attitude is the most powerful force in dreaming of the future. - Friedrich Nietzsche"
+  bio              : "Changing the world with Computers, Chemistry, Physics, Mathematics, and Statistics"
   location         : "Somewhere"
   email            :
   links:
