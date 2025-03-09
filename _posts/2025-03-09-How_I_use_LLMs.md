@@ -39,4 +39,33 @@ title: "Review on 'How I use LLMs' by Andrej Karpathy"
   - style of assistant and knowledge of internet
 
 - fully self-contained entity: no tool use "yet"
-- 
+
+
+- when switching topic, start new chat (wiping context window)
+- context window is expensive
+      - distracted by the tokens in the past when sampling a new token (decrease the accuracy)
+      - more expensive to sample the next token (just by a little bit)
+  - precious resource (working memory of model)
+      - don't overload
+
+- what model you are using
+    - Plus users can send 80 messages/3-hour on GPT-4o (flagship model)
+
+  
+- thinking models
+  - pretraining + sft + rl
+  -   - rl: practice large collection of problems
+  - discovers thinking strategies that lead to outcomes
+  - resemble that the thinking process that you have
+  - only 1~2 year ago (large breakthrough)
+  - DeepSeek: incentivizing ... thr RL
+- optional thinking bubble (thinking model)
+-   - additionally tuned with RL
+    - qualitative: higgher accuracy esp math, code, require a lot of thinking
+    -   - simple might not benefit, deep and hard may benefit a lot
+    - thinking (many token)
+    - difficult problems: hight accuracy
+- GPT-4o: flagship, most powerful model w/o thinking
+-   - thinking models: start with o (o1, o3, ...) are thinking models
+        - all tuned with RL
+    - 
