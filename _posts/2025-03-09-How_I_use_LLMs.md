@@ -10,7 +10,8 @@ title: "Review on 'How I use LLMs' by Andrej Karpathy"
 
 # "How I use LLMs" by Andrej Karpathy
 
-<iframe width="560" height="315" src="https://youtu.be/EWvNQjAaOHw?si=pZC5pFFtLzJGYLkb" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/pZC5pFFtLzJGYLkb/0.jpg)](https://youtu.be/EWvNQjAaOHw?si=pZC5pFFtLzJGYLkb)
+
 
 
 - ChatGPT: deployed 2022 by OpenAI, first LLM that people could talk to through text-based interface
