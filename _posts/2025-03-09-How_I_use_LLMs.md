@@ -82,7 +82,15 @@ title: "Review on 'How I use LLMs' by Andrej Karpathy"
       - internet search + thinking
       - chatgpt is the best so far (thorough, reads the best, longest, makes sense)
       - still can be hallucinations (citations are important!)
-      - 
+  - we can give concrete documents to LLM by search or deep research, but also manually file upload
+  -   - likely images are thrown away
+      - PDF -> text file -> context window
+  - use of python interpreter
+      - calculator
+      - very useful for chatgpt data analysis
+  - artifacts (claude)
+  - 
+
 
 
 
