@@ -10,7 +10,7 @@ title: "Review on 'How I use LLMs' by Andrej Karpathy"
 
 # "How I use LLMs" by Andrej Karpathy
 
-[![Watch the video](https://img.youtube.com/vi/pZC5pFFtLzJGYLkb/0.jpg)](https://youtu.be/EWvNQjAaOHw?si=pZC5pFFtLzJGYLkb)
+[![Watch the video](https://img.youtube.com/vi/pZC5pFFtLzJGYLkb/hqdefault.jpg)](https://youtu.be/EWvNQjAaOHw?si=pZC5pFFtLzJGYLkb)
 
 
 
