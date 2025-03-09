@@ -72,10 +72,16 @@ title: "Review on 'How I use LLMs' by Andrej Karpathy"
 - tool use
 -   - only thr text
     - give model the ability to use tools
+    - 
     -   - internet search: stuff the internet pages in the context window
         - "search the internet" token: after all internet searches, and after into the context window, reference back to the question
         - w/o internet search: no chance to give correct answer b/c of knowledge cutoff
       - model itself knows that it has to do the internet search, or sometimes we have to manually click the "search" button
+  - deep research
+  -   - 1~2month (pro version)
+      - internet search + thinking
+      - chatgpt is the best so far (thorough, reads the best, longest, makes sense)
+      - still can be hallucinations (citations are important!)
       - 
 
 
